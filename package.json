@@ -1,0 +1,31 @@
+{
+  "name": "react-native-log-elements",
+  "version": "1.0.0",
+  "description": "The react-native components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/longpq18/react-native-log-elements.git"
+  },
+  "keywords": [
+    "rn",
+    "elements",
+    "component"
+  ],
+  "author": "Pham Long",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longpq18/react-native-log-elements/issues"
+  },
+  "homepage": "https://github.com/longpq18/react-native-log-elements#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.55.0"
+  },
+  "dependencies": {
+    "package.json": "^2.0.1",
+    "prop-types": "^15.7.2"
+  }
+}
