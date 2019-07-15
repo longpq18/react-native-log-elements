@@ -6,8 +6,6 @@ export default StyleSheet.create({
   },
   textName: {
     color: '#fff',
-  },
-  textContent: {
-    color: '#fff',
+    width: sizes.screenWidth/2,
   },
 })

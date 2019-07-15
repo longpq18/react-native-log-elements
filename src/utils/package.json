@@ -1,0 +1,25 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "author": "Pham Long",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}

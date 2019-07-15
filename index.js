@@ -1,5 +1,7 @@
-import TextInfo from './src/TextInfo';
+import TextInfo from 'TextInfo';
+import ButtonCustom from 'ButtonCustom';
 
 export {
   TextInfo,
+  ButtonCustom
 }
